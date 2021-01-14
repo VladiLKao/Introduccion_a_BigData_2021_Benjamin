@@ -1,12 +1,13 @@
-# Introduccion_a_BigData_2021_Vladimir
-"docker        comandos"
+comandos
+```  sh
 $ docker run -i t <SO>
 $ docker run -it -p <p.salida/p.interno><servicio>
 $ docker ps
 $ docker exec -it <id-container> cat <dirección del txt>
 $ docker rm -f <id-container>
+```
 
-
-
-docker es un sitema que permite la creacion de contenedores  usando linux, ncluyen todo lo necesario para que el software se ejecute, incluidas bibliotecas, herramientas de sistema, código y tiempo de ejecución.
-permite entregar código con mayor rapidez
+```sh
+ es una plataforma de software que le permite crear, probar e implementar aplicaciones rápidamente.
+ Docker empaqueta software en unidades estandarizadas llamadas contenedores 
+ ```
